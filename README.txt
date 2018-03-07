@@ -1,13 +1,13 @@
-Ô­Àí
-Ä£Äâ²Ù×÷Ë³Ðò£º
-´ò¿ªä¯ÀÀÆ÷£ºinit_driver()
-ÊäÈëÍøÖ·²¢µÇÂ¼£ºhandle_login(driver)
-½øÈëÀúÊ·¼ÇÂ¼-ÓÃ»§¼ÇÂ¼½çÃæ£¬²¢ÇÒ¹Ø±ÕÔ±¹¤¹ÜÀí½çÃæ£ºgoto_download_page(driver)
-ÊäÈëÐÕÃû£¬µã»÷ËÑË÷£¬Õª³öÊ±¼ä¶ÎÄÚµÄÊý¾Ý£¬²¢±£´æÎªcsv£ºdownload(driver, name, time_end, time_start)
-¹Ø±Õä¯ÀÀÆ÷£ºdriver.close()
+åŽŸç†
+æ¨¡æ‹Ÿæ“ä½œé¡ºåºï¼š
+æ‰“å¼€æµè§ˆå™¨ï¼šinit_driver()
+è¾“å…¥ç½‘å€å¹¶ç™»å½•ï¼šhandle_login(driver)
+è¿›å…¥åŽ†å²è®°å½•-ç”¨æˆ·è®°å½•ç•Œé¢ï¼Œå¹¶ä¸”å…³é—­å‘˜å·¥ç®¡ç†ç•Œé¢ï¼šgoto_download_page(driver)
+è¾“å…¥å§“åï¼Œç‚¹å‡»æœç´¢ï¼Œæ‘˜å‡ºæ—¶é—´æ®µå†…çš„æ•°æ®ï¼Œå¹¶ä¿å­˜ä¸ºcsvï¼šdownload(driver, name, time_end, time_start)
+å…³é—­æµè§ˆå™¨ï¼šdriver.close()
 
 
-ÓÐÊ±ºòÊý¾Ý»á²»È«£¬ÊÇÒòÎªÍøËÙ²»ÐÐ£¬Ã»¼ÓÔØ³öÀ´£¬ÖØÅÜÒ»±ß£¬»òÕßµ÷ÕûWAIT_TIME
+æœ‰æ—¶å€™æ•°æ®ä¼šä¸å…¨ï¼Œæ˜¯å› ä¸ºç½‘é€Ÿä¸è¡Œï¼Œæ²¡åŠ è½½å‡ºæ¥ï¼Œé‡è·‘ä¸€è¾¹ï¼Œæˆ–è€…è°ƒæ•´WAIT_TIME
 
 require:
 python
